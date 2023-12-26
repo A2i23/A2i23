@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Aziz</h1>
 <h3 align="center">A passionate developer and interested in software engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a2i23&label=Profile%20views&color=0e75b6&style=flat" alt="a2i23" /> </p>
 
 <p align="left"> <a href="https://twitter.com/a2i2_23" target="blank"><img src="https://img.shields.io/twitter/follow/a2i2_23?logo=twitter&style=for-the-badge" alt="a2i2_23" /></a> </p>
 
