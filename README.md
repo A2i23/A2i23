@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aziz</h1>
-<h3 align="center">A passionate developer and interested in software engineering</h3>
+<h3 align="center">Never stop learning</h3>
 
 <p align="center"> <a href="https://twitter.com/a2i2_23" target="blank"><img src="https://img.shields.io/twitter/follow/a2i2_23?logo=twitter&style=for-the-badge" alt="a2i2_23" /></a> </p>
 
