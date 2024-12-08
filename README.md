@@ -1,4 +1,4 @@
-# <h1 align="center">Hi 👋, I'm Aziz</h1>
+# <h1 align="center">Hi there 👋</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
 Welcome to my GitHub profile! I specialize in building web and AI-based projects while continuously exploring new technologies.
