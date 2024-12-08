@@ -18,6 +18,7 @@ Check out my work [here](https://a2i23.github.io/portfolio1/).
 
 ## 📫 **How to Reach Me**
 - **X (Twitter):** [@a2i2_23](https://twitter.com/a2i2_23)
+- **Email:** For official purpose & inquiries Only] azizsami1957@gmail.com
 
 ---
 
