@@ -17,7 +17,8 @@ Check out my work [here](https://a2i23.github.io/portfolio1/).
 ---
 
 ## 📫 **How to Reach Me**
-
+- Discord: https://discordapp.com/users/a_juv23
+- **Email:** [For official inquiries Only] azizsami1957@gmail.com
 
 ---
 
