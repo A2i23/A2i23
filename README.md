@@ -111,10 +111,11 @@ Check out my work [here](https://a2i23.github.io/portfolio1/).
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
   </a>
+  <br>
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/>(https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
 </a>
-<a href="https://visily.ai/" target="_blank" rel="noreferrer">
+<a href="https://visily.ai/" target="_blank" rel="visily.ai">
   <img src="https://www.vectorlogo.zone/logos/visilyai/visilyai-icon.svg" alt="Visily.ai" width="40" height="40"/>
 </a>
 
